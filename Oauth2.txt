@@ -1,0 +1,12 @@
+
+https://spring.io/guides/tutorials/spring-boot-oauth2/
+
+https://stackoverflow.com/questions/tagged/oauth-2.0
+
+http://tutorials.jenkov.com/oauth2/index.html
+
+
+
+
+
+
